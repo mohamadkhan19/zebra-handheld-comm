@@ -13,7 +13,10 @@
     "prepublishOnly": "expo-module prepublishOnly",
     "expo-module": "expo-module"
   },
-  "repository": "https://github.com/Shipcom-dev/zebra-handheld-comm",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shipcom-dev/zebra-handheld-comm.git"
+  },
   "author": "Jason Mark",
   "license": "MIT",
   "homepage": "https://github.com/Shipcom-dev/zebra-handheld-comm#readme",
